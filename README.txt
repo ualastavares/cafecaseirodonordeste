@@ -1,0 +1,1 @@
+Abrir index.html com Live Server no VSCode.
